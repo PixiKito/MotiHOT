@@ -1,2 +1,0 @@
-# MotiHOT
-little horror
